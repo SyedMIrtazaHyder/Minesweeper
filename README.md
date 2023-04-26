@@ -13,3 +13,5 @@ Custom modes to alter grid size and bomb quantities.<br>
 ![image](https://user-images.githubusercontent.com/111231209/232100530-1fdf09c3-0ba4-4491-83f4-df46542a2227.png)
 ### Gameplay<br>
 ![image](https://user-images.githubusercontent.com/111231209/232098924-423bdfd9-a391-4b03-bb19-2bf6594eeb60.png)
+
+IDK Why i am typing here, but it is just for fun
